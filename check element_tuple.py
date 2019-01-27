@@ -1,0 +1,5 @@
+_tuple = (1, 2, 3, 4, 5, 6)
+print(1 in _tuple)
+print('a' in _tuple)
+print(100 in _tuple)
+print(3 in _tuple)
